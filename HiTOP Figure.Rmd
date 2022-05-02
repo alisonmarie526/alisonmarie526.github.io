@@ -1,0 +1,39 @@
+---
+title: "2022 HiTOP Trainee Showcase"
+author: "Alison Schreiber and Michael Hallquist"
+date: "5/2/2022"
+output: 
+  html_document:
+    df_print: kable
+    mathjax: default
+    number_sections: no
+    theme: spacelab
+    toc: yes
+    fig_width: 9 
+    fig_height: 6 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, out.width = "1000px", echo = FALSE}
+
+knitr::include_graphics("Fig1.png")
+```
+
+
+
+
+
+Proposed model of affect-based impulsivity. A stressor induces negative affect. Increases in negative affect elicits concomitant changes in circulating levels of norepinephrine and glucocorticoids. GCs enhance DA reativity in NAcc shell and NE + GCs blunt mPFC functioning. Altered functioning in mPFC and NAcc shell result in altered balance of Pavlovian and goal-directed decision systems. Heightened influence of Pavlovian systems on decision-making resulted in heightened influence of reward cues and invigorate pursuit of rewards. 
+
+
+```{r, out.width = "400px", echo = FALSE}
+
+knitr::include_graphics("Fig2.png")
+```
+
+
+
+A community sample of 386 adults completed a task assessing impulsivity following an affect induction. In support of our behavioral hypotheses, among participants exposed to the negative affect induction, self-reported negative urgency heightened discounting of future state when choosing a social action late in learning, β = 0.41, t(380) = 2.20, p = 0.029.
