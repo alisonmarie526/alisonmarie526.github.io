@@ -1,0 +1,22 @@
+---
+title: "SRP 2022"
+author: "Alison Schreiber and Michael Hallquist"
+date: '2022-09-08'
+output: 
+  html_document:
+    df_print: kable
+    mathjax: default
+    number_sections: no
+    theme: spacelab
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', fig.cap='Schreiber SRP 2022'}
+knitr::include_graphics("SDTT SRP Schreiber 2022.pdf")
+```
